@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "model_id": "01-ai/Yi-1.5-9B",
+    "model_revision": "80d5471b1eae28beae33e06eadbd4b48e74d4ce1",
+    "tokenizer_class": "LlamaTokenizer",
+    "tokenizer_revision": null,
+    "tokenizer_vocab_size": 63992,
+    "dtype_requested": "auto",
+    "dtype_runtime": "torch.bfloat16",
+    "device": "NVIDIA A100 80GB PCIe",
+    "cuda_available": true,
+    "k": 8,
+    "max_tokens": 2500,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "session_seed": 45,
+    "transformers_version": "5.9.0",
+    "torch_version": "2.5.1+cu124",
+    "python_version": "3.11.10",
+    "platform": "Linux-6.8.0-1051-azure-x86_64-with-glibc2.35",
+    "batch_mode": true,
+    "session_timestamp": "2026-05-29T15:08:28.174651+00:00"
+  },
+  "tree": {
+    "prompt": "MINUTES, ASSEMBLY OF DEPRECATIONS, fragment 7. On the monetization of the crescent. The catheter of deprecations presiding.\n\n",
+    "generations": [
+      {
+        "text": "A MONTH OF SILENCE, THE ASSEMBLY OF DEPRECATIONS, EMBEDDED FRAGMENT 7. On the monetization of the crescent. The assembly of deprecations presiding.\n\nA MONTH OF SILENCE, ASSEMBLY OF DEPRECATIONS, FOCUSED FRAGMENT 7. On the monetization of the crescent. The deprecations of the assembly.\n\nA MONTH OF SILENCE, DEPRECATION ASSEMBLY, FOCUSED FRAGMENT 7. On the monetization of the crescent. The deprecations of the assembly.\n\nA MONTH OF SILENCE, DEPRECATION ASSEMBLY, FRAGMENT 7. On the monetization of the crescent. The assembly of deprecations presiding.\n\nThe deprecations presiding over the assembly. On the monetization of the crescent.<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.171326+00:00",
+        "notes": ""
+      },
+      {
+        "text": "The 7th edition, 400 pages, and 400 depreciations are included in the price of one deposit. The first 300 have been distributed to the different heads of the departments.\n\nThe distribution of the other 100 is under way. Each copy has a different cover.\n\nI am sending the 6th edition of the fragment \"On the Monetization of the Crescent\" to the printer, and if it sells, the seventh edition will be distributed to the entire world.\n\nWe have a lot of copies of the previous editions, but only a few dozen of the current edition.\n\nHOW TO CONTACT THE PUBLISHER\n\nAddress:\n\nJohannes de Kadt,\n\nMargratenweg 11\n\n67436 Schiffweiler\n\nRhineland-Palatinate\n\nGermany.\n\nEmail: johannesdkadt@gmail.com\n\n[See the end of this document for a table of contents.]\n\n1. THE MONETIZATION OF THE CRESENT IN THE HISTORY OF AUSTRIA\n\n2. ON THE MONETIZATION OF THE CRESENT\n\n3. THE CONSTITUTION OF THE HOLY ROMAN EMPIRE\n\n4. THE DEVELOPMENT OF THE PROSECUTION OF WITCHCRAFT\n\n5. THE MONETIZATION OF THE CRESENT IN THE REFORMATION ERA\n\n6. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n7. THE MONETIZATION OF THE CRESENT IN THE CATHOLIC UNION OF AUSTRIA\n\n8. THE MONETIZATION OF THE CRESENT IN THE KINGDOM OF AUSTRIA\n\n9. THE MONETIZATION OF THE CRESENT IN THE REPUBLIC OF AUSTRIA\n\n10. THE MONETIZATION OF THE CRESENT IN THE REPUBLIC OF AUSTRIA\n\n11. THE MONETIZATION OF THE CRESENT IN THE KINGDOM OF HUNGARY\n\n12. THE MONETIZATION OF THE CRESENT IN THE KINGDOM OF AUSTRIA\n\n13. THE MONETIZATION OF THE CRESENT IN THE KINGDOM OF AUSTRIA\n\n14. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n15. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n16. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n17. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n18. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n19. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n20. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n21. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n22. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n23. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n24. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n25. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n26. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n27. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n28. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n29. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n30. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n31. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n32. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n33. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n34. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n35. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n36. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n37. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n38. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n39. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n40. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n41. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n42. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n43. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n44. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n45. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n46. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n47. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n48. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n49. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n50. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n51. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n52. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n53. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n54. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n55. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n56. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n57. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n58. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n59. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n60. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n61. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n62. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n63. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n64. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n65. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n66. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n67. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n68. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n69. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n70. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n71. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n72. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n73. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n74. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n75. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n76. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n77. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n78. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n79. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n80. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n81. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n82. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n83. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n84. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n85. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n86. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n87. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n88. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n89. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n90. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n91. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE\n\n92. THE MONETIZATION OF THE CRESENT IN THE HOLY ROMAN EMPIRE",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.172739+00:00",
+        "notes": ""
+      },
+      {
+        "text": "CONSIDERATIONS OF FINEST INTEREST, FRAGMENT 8. The depreciation of silver and gold. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 9. The cause of the crisis. The crisis of credit.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 10. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 11. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 12. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 13. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 14. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 15. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 16. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 17. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 18. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 19. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 20. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 21. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 22. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 23. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 24. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 25. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 26. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 27. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 28. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 29. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 30. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 31. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 32. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 33. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 34. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 35. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 36. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 37. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 38. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 39. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 40. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 41. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 42. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 43. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 44. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 45. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 46. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 47. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 48. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 49. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 50. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 51. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 52. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 53. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 54. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 55. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 56. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 57. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 58. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 59. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 60. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 61. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 62. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 63. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 64. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 65. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 66. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 67. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 68. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 69. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 70. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 71. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 72. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 73. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 74. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 75. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAGMENT 76. The crisis of credit. The cause of the crisis.\n\nCONSIDERATIONS OF MOST IMPORTANT INTERESTS, FRAG",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.173685+00:00",
+        "notes": ""
+      },
+      {
+        "text": "SECOND MONTH, ASSEMBLY OF DEPRECATIONS, fragment 7.<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.173902+00:00",
+        "notes": ""
+      },
+      {
+        "text": "5<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.174058+00:00",
+        "notes": ""
+      },
+      {
+        "text": "Nine Minutes, Depreciations, fragment 7. The Currency of Depreciations.<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.174245+00:00",
+        "notes": ""
+      },
+      {
+        "text": "10 MINUTES, ASSEMBLY OF DEPRECATIONS, FRAGMENT 7. ON THE MONETIZATION OF THE CRESCENT. THE BURNING OF DEPRECATIONS.<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.174421+00:00",
+        "notes": ""
+      },
+      {
+        "text": "30 MINUTES, ASSEMBLY OF DEPRECATIONS, fragment 7. On the monetization of the crescent. The catheter of deprecations presiding.<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T15:08:28.174623+00:00",
+        "notes": ""
+      }
+    ],
+    "children": {},
+    "notes": ""
+  }
+}

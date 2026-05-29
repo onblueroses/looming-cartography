@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "model_id": "EleutherAI/pythia-6.9b",
+    "model_revision": "c0e3eee36dc47af0c49f361c74cfe459c09f7f23",
+    "tokenizer_class": "GPTNeoXTokenizer",
+    "tokenizer_revision": null,
+    "tokenizer_vocab_size": 50254,
+    "dtype_requested": "auto",
+    "dtype_runtime": "torch.float16",
+    "device": "NVIDIA A100 80GB PCIe",
+    "cuda_available": true,
+    "k": 8,
+    "max_tokens": 1500,
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "session_seed": 44,
+    "transformers_version": "5.9.0",
+    "torch_version": "2.5.1+cu124",
+    "python_version": "3.11.10",
+    "platform": "Linux-5.15.0-171-generic-x86_64-with-glibc2.35",
+    "batch_mode": true,
+    "session_timestamp": "2026-05-29T14:23:10.678960+00:00"
+  },
+  "tree": {
+    "prompt": "From Todd's notebook, page 14. On the Cyborg Loop, continued. The subroutine that calls itself over and over until the precision converges.\n\n",
+    "generations": [
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.676431+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.676619+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.676785+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.676950+00:00",
+        "notes": ""
+      },
+      {
+        "text": "  * The Cyborg Loop algorithm.\n\nWhat Cyborg Loop does is this: It looks for the value of E in the loop. The value of E is updated after each iteration. When it finds the value of E that converges, the algorithm is finished. In other words, Cyborg Loop is the algorithm that sets the value of E to its best estimate of pi.\n\nSo where is Cyborg Loop in our code? There's only one place in our code that Cyborg Loop can appear: The line that calls Cyborg Loop itself. The line that is marked \"Cyborg Loop\" in the image above. The line that begins:\n\nThe loop is run until:\n\nIn the book, we will call this line \"The Cyborg Loop.\" But before we talk about the Cyborg Loop, let's take a look at the code for that line. The code reads this:\n\nfor (int i = 1; i < N; i++)\n\n{\n\nint r = 0;\n\nint pi_i = 0;\n\nint N_i = 0;\n\nint E_i = 0;\n\nint e = 0;\n\nr = sqrt(i);\n\npi_i = r * r / i;\n\nN_i = (int) sqrt(i) + 1;\n\ne = pi_i - N_i / 2;\n\nE_i = e + r / 6 - r / 2;\n\n}\n\nThe Cyborg Loop is located at the top of this loop. The loop is called \"for (int i = 1; i < N; i++)\" (as you can see, N is defined as \"N = int N\"). Each time through the loop, it is executed as long as the loop variable i has a value less than or equal to the variable N.\n\n  * The Cyborg Loop algorithm.\n\n  * The Cyborg Loop algorithm.\n\n  * The Cyborg Loop algorithm.\n\nThe code begins with the line:\n\nfor (int i = 1; i < N; i++)\n\n...\n\nIf you follow the algorithm through, then you will find that each iteration of the loop sets r to be equal to i. The line:\n\nr = sqrt(i);\n\n... sets r to be equal to the variable i. The value of r then becomes the variable i.\n\nThe following lines are also part of the Cyborg Loop algorithm:\n\nint pi_i = r * r / i;\n\n... sets pi_i to be equal to the variable r * r / i.\n\nThe following lines are also part of the Cyborg Loop algorithm:\n\nint N_i = (int) sqrt(i) + 1;\n\n... sets N_i to be equal to the variable (int) sqrt(i) + 1.\n\nThe following lines are also part of the Cyborg Loop algorithm:\n\nint E_i = e + r / 6 - r / 2;\n\n... sets E_i to be equal to the variable e + r / 6 - r / 2.\n\nNotice how r and e are created and assigned each iteration through the Cyborg Loop algorithm. In fact, you will find that all of the variables are assigned values each time through the loop. The line:\n\ne = pi_i - N_i / 2;\n\n... assigns the variable e the value pi_i - N_i / 2.\n\nThe line:\n\nE_i = e + r / 6 - r / 2;\n\n... assigns the variable E_i the value E_i + r / 6 - r / 2.\n\nThe Cyborg Loop algorithm then ends when i is less than or equal to N. When i becomes greater than N, the Cyborg Loop terminates. The Cyborg Loop algorithm ends when:\n\nIn the book, we will call this line \"The Cyborg Loop.\" But before we talk about the Cyborg Loop, let's take a look at the code for that line. The code reads this:\n\nfor (int i = 1; i < N; i++)\n\n...\n\nThe code starts with the line:\n\nfor (int i = 1; i < N; i++)\n\n...\n\nIn other words, each time through the Cyborg Loop algorithm is executed as long as the variable i has a value less than or equal to the variable N.\n\nYou may be wondering why the Cyborg Loop algorithm is called the Cyborg Loop algorithm. In Todd's notebook, page 14, the Cyborg Loop algorithm is called the Cyborg Loop algorithm. However, the Cyborg Loop algorithm is called the Cyborg Loop algorithm in the book. Why? Because the Cyborg Loop algorithm is the algorithm that sets the value of E to its best estimate of pi.\n\nNow that you know what Cyborg Loop is, let's turn our attention to why Cyborg Loop is used.\n\nThe Cyborg Loop algorithm is the algorithm that sets the value of E to its best estimate of pi.\n\n# Cyborg Loop is a useful algorithm\n\nThe Cyborg Loop algorithm is a useful algorithm to use in many applications.\n\nOne such application is in cryptography. It turns out that the Cyborg Loop algorithm is commonly used in cryptography applications.\n\n## Cryptography applications\n\nCryptography is the art of encoding and decoding messages with codes that are hard to decode. The codes are called \"encryptions\" and \"decryptions.\" This is accomplished by using a code to encrypt and a code to decrypt. You will need to make sure that you can encrypt and decrypt messages using the codes. It's good to be able to encrypt and decrypt messages!\n\nIt is useful to be able to encrypt and decrypt messages because that enables you to use one piece of encrypted information to encrypt another piece of encrypted information. The encrypted message can then be used to encrypt a message and send it to someone else. The other person can use the encrypted message to decrypt the message and send it to you. That's how you can send encrypted messages to each other. That's how you can exchange information!\n\nYou will be learning how to encrypt and decrypt messages in the book.\n\nCyberpunk\n\nCyberpunk (or cyberpunk fiction, if you're American) is a subgenre of science fiction, fantasy, and horror that emerged in the 1980s and is often marked by dystopian, apocalyptic, and cyberpunk themes.\n\nIn cyberpunk fiction, the future often is a dystopia. The future often is dark. Often the future is a world of technology. The future often is a world where there is a lot of crime. Often the world is a world that's gone to hell and back.\n\nCyberpunk is a subgenre of science fiction.\n\nCyberpunk fiction often is about a future where technology has gone wild.\n\nCyberpunk characters often have superpowers.\n\nCyberpunk is often dystopian.\n\nCyberpunk",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.678451+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.678623+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.678785+00:00",
+        "notes": ""
+      },
+      {
+        "text": "<|endoftext|>",
+        "seed": null,
+        "temperature": 0.9,
+        "top_p": 0.95,
+        "timestamp": "2026-05-29T14:23:10.678947+00:00",
+        "notes": ""
+      }
+    ],
+    "children": {},
+    "notes": ""
+  }
+}
